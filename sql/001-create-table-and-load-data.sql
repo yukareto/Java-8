@@ -10,3 +10,4 @@ INSERT INTO names (name) VALUES ('RAKUSU');
 INSERT INTO names (name) VALUES ('KIRA');
 INSERT INTO names (name) VALUES ('kamie');
 INSERT INTO names (name) VALUES ('YURETO');
+INSERT INTO names (name) VALUES ('TAKUMA');
